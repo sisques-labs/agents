@@ -1,0 +1,26 @@
+{
+  "name": "@sisques-labs/agents",
+  "version": "1.0.0",
+  "description": "CLI to add reusable AI agent prompts to your projects",
+  "main": "bin/cli.js",
+  "bin": {
+    "sisques-agents": "bin/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "cli",
+    "scaffold",
+    "prompts"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "preferGlobal": true
+}
