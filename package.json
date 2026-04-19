@@ -1,6 +1,6 @@
 {
   "name": "@sisques-labs/agents",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI to add reusable AI agent prompts to your projects",
   "main": "bin/cli.js",
   "bin": {
